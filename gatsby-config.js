@@ -33,7 +33,6 @@ module.exports = {
     siteMetadata: {
         siteUrl: config.siteUrl,
     },
-    pathPrefix: "/gatsby-ghost-blog-demo",
     plugins: [
         /**
          *  Content Plugins
